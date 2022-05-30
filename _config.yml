@@ -17,19 +17,20 @@ authors:
     name: Sajal Sharma
     display_name: Sajal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: sajal.4591@gmail.com
+    email: 6bikramsuthar@gmail.com
     web: https://cosmos-sajal.github.io/
-    twitter: https://twitter.com/cosmos_sajal
+    twitter: https://twitter.com/thebstar13
     description: "Founding Member @ Orange Health, IIIT Hyderabad Post Graduate, Startup Enthusiast"
-  john:
-    name: John
-    display_name: John    
+  bikram:
+    name: Bikram Sutar
+    display_name: Bikram    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://www.linkedin.com/in/thebstar/
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Building Houseware. Led App and Web at OrangeHealth & Radicali. Technical writer, mostly working with react, typescript & Javascript. Views just mine."
+"
 
 # Plugins
 plugins:
